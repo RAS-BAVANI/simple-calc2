@@ -1,3 +1,4 @@
+<%@ page import="com.calc2.calc2.App" %>
 
 <html>
 <head>
@@ -43,4 +44,3 @@ if(request.getParameter("a") != null && request.getParameter("b") != null){
 
 </body>
 </html>
-
